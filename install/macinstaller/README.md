@@ -13,4 +13,4 @@
 
 * cil-core - Application with installed modules
 * [Node.js](https://nodejs.org) put in a folder Script.d
-* [Script.d](Script.d)
+* [Scripts.d](Scripts.d)
